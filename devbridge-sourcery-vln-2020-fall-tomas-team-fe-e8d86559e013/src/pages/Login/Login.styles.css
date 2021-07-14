@@ -1,0 +1,6 @@
+.login-page > div {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  text-align: center;
+}

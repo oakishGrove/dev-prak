@@ -1,0 +1,14 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.paper {
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  height: 90%;
+  padding-left: 10px !important;
+}

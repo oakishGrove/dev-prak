@@ -1,0 +1,7 @@
+create TABLE IF NOT EXISTS item_comment (
+    ID SERIAL PRIMARY KEY,
+    TEXT VARCHAR,
+    GIF_URL VARCHAR,
+    ITEM_ID INT NOT NULL,
+    FOREIGN KEY (ITEM_ID) REFERENCES column_item(ID)
+);

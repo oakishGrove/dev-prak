@@ -1,0 +1,13 @@
+.navigation {
+  margin: 5px;
+  color: black;
+  text-decoration: none;
+}
+
+.navigation:hover {
+  color: red;
+}
+
+.navigation.active {
+  color: red;
+}

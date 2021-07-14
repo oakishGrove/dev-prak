@@ -1,0 +1,5 @@
+.outlined-multi-input {
+  display: flex;
+  flex-direction: row;
+  background: #fa2;
+}

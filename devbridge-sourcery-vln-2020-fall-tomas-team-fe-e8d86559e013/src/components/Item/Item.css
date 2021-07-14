@@ -1,0 +1,31 @@
+.first {
+  background: linear-gradient(90deg, rgba(93, 12, 255, 1) 0%, rgba(155, 0, 250, 1) 100%);
+}
+
+.second {
+  background: linear-gradient(90deg, rgba(255, 12, 241, 1) 0%, rgba(250, 0, 135, 1) 100%);
+}
+
+.third {
+  background: linear-gradient(90deg, rgba(20, 159, 255, 1) 0%, rgba(17, 122, 255, 1) 100%);
+}
+
+.icon-button {
+  color: white;
+  padding: 5px !important;
+}
+
+.item-container {
+  border-radius: 6px;
+  border: solid 1px rgba(0, 0, 0, 0.5);
+  margin-top: 5px;
+}
+
+.item-text {
+  /*  text-align: center;*/
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-left: 10px;
+  word-wrap: break-word;
+}
